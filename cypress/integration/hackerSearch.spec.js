@@ -34,7 +34,6 @@ describe('Hacker Search', () => {
 
   it('dismisses a story', () => {
     cy.contains('Dismiss')
-      .first()
       .click()
 
     cy.get('.table-row')
