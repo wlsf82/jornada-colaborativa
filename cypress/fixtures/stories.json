@@ -1,0 +1,20 @@
+{
+  "hits": [
+    {
+      "title": "Como testar o frontend desacoplado do backend com Cypress",
+      "url": "https://example.com/como-testar-o-frontend-desacoplado-do-backend-com-Cypress",
+      "author": "Walmyr Filho",
+      "num_comments": 30,
+      "points": 100,
+      "objectID": 0
+    },
+    {
+      "title": "Tem talk de Cypress na Jornada Colaborativa 2021",
+      "url": "https://example.com/tem-talk-de-cypress-na-jornada-colaborativa-2021",
+      "author": "João Clineu",
+      "num_comments": 99,
+      "points": 150,
+      "objectID": 1
+    }
+  ]
+}
