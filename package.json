@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Projeto demo para o evento Jornada Colaborativa 2021",
   "scripts": {
+    "test": "cypress run",
     "cy:open": "cypress open"
   },
   "keywords": [
